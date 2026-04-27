@@ -1,0 +1,13 @@
+Mario game components requireds:
+1.Arduino
+2.LED Display
+3.Jou Stick
+4.BreadBoard you choice
+5.Jumper Wires
+
+
+"smoke Dectecting vale shoe"
+Components required:
+1.ESP32 or Esp32S3
+2.Oled
+3.Jumper Wires
